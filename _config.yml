@@ -30,7 +30,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # 新建文件的文件名
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -66,17 +66,14 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 
-#更换主题
-theme: freemind 	
-#自动压缩CSS文件
-stylus:
-	compress:true
+
+theme: freemind #更换主题	
+stylus: compress:true #自动压缩CSS文件
 	
 	
 	
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-#部属
 deploy:
   type: git
   repo: https://github.com/wuhuiheu/wuhuiheu.github.io.git
