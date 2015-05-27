@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://wuhuiheu.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -67,7 +67,7 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 
 
-theme: landscape #更换主题	
+theme: freemind #更换主题	freemind jacman landscape next
 stylus: compress:true #自动压缩CSS文件
 	
 	
