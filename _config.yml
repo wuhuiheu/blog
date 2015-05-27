@@ -36,7 +36,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -67,7 +67,7 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 
 
-theme: freemind #更换主题	
+theme: landscape #更换主题	
 stylus: compress:true #自动压缩CSS文件
 	
 	

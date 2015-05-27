@@ -1,6 +1,6 @@
 title: Java遍历集合过程并删除其中元素
 date: 2015-05-27 15:36:06
-tags: Java 集合 Exception ConcurrentModificationException
+tags: [Java,集合,Exception,ConcurrentModificationException]
 ---
 # 情景
 ---
