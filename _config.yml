@@ -67,7 +67,7 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 
 
-theme: freemind #更换主题	freemind jacman landscape next
+theme: landscape #更换主题	freemind jacman landscape next
 stylus: compress:true #自动压缩CSS文件
 	
 	
@@ -76,6 +76,6 @@ stylus: compress:true #自动压缩CSS文件
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wuhuiheu/wuhuiheu.github.io.git
+  repo: git@github.com:wuhuiheu/wuhuiheu.github.io.git
   branch: master
   message: hexo deploy
